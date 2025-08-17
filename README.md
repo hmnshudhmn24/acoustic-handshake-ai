@@ -1,11 +1,5 @@
 # 🎶 Acoustic Handshake AI 🤝🔊
 
-[![Python](https://img.shields.io/badge/Python-3.8%2B-blue.svg?logo=python)](https://www.python.org/)  
-[![License: MIT](https://img.shields.io/badge/License-MIT-green.svg)](LICENSE)  
-[![Made with Love](https://img.shields.io/badge/Made%20with-❤️-red.svg)](#)  
-[![Stars](https://img.shields.io/github/stars/yourusername/acoustic-handshake-ai?style=social)](https://github.com/yourusername/acoustic-handshake-ai/stargazers)  
-
----
 
 ## 📖 Overview  
 
@@ -16,7 +10,7 @@
 
 🔐 This combines **steganography, AI-inspired protocol design, and audio encoding** into a unique project that stands out on GitHub.  
 
----
+
 
 ## ✨ Features  
 
@@ -26,7 +20,7 @@
 - 🗝️ **Steganography-lite** — Hide secret messages inside `.wav` files.  
 - 🧪 **Demo Included** — Alice and Bob showcase how it works step by step.  
 
----
+
 
 ## 🛠️ Installation  
 
@@ -39,7 +33,7 @@ cd acoustic-handshake-ai
 pip install -r requirements.txt
 ```
 
----
+
 
 ## ▶️ Usage  
 
@@ -57,7 +51,7 @@ Alice received: 1010 (secret mode: True)
 Bob decoded secret: Hello Bob!
 ```
 
----
+
 
 ## 📂 Project Structure  
 
@@ -70,7 +64,7 @@ acoustic-handshake-ai/
 │── README.md          # Project documentation
 ```
 
----
+
 
 ## 🎨 Demo Illustration  
 
@@ -84,7 +78,7 @@ Alice: "Hello Bob!" (hidden in sound) ---> Bob
 Bob:   Decodes the message 🎉
 ```
 
----
+
 
 ## 🚀 Roadmap  
 
@@ -93,25 +87,3 @@ Bob:   Decodes the message 🎉
 - [ ] Extend to multi-agent communication  
 - [ ] Integrate real-time microphone I/O  
 
----
-
-## 🧑‍💻 Contributing  
-
-Contributions are welcome! 🙌  
-
-1. Fork this repo 🍴  
-2. Create a new branch 🌱  
-3. Commit your changes 📝  
-4. Open a Pull Request 🚀  
-
----
-
-## ⭐ Support  
-
-If you find this project interesting, please **star ⭐ the repo** — it helps more people discover it and motivates me to build more cool AI projects!  
-
----
-
-## 📜 License  
-
-This project is licensed under the **MIT License** — feel free to use, modify, and share. 
